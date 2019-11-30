@@ -1,27 +1,22 @@
 <html>
-<body>
-{
+<body>{
 	"dir" : "ltr",
-	"lang" : "en",
-	"name" : "atomstudy",
+	"lang" : "es",
+	"name" : "Accelerated Mobile Pages en Blogger",
 	"scope" : "/",
 	"display" : "browser",
-	"start_url" : "https://www.atomstudy.com/",
-	"short_name" : "atomstudy",
-	"theme_color" : "#1c32ac",
-	"description" : "free study material for iit and neet prepration, coding blog",
+	"start_url" : "https://amp-bllog.blogspot.com/",
+	"short_name" : "Ampen blogger",
+	"theme_color" : "#3f51b5",
+	"description" : "online tool for coding",
 	"orientation" : "any",
-	"background_color" : "#1c32ac",
+	"background_color" : "#3f51b5",
 	"related_applications" : "",
 	"prefer_related_applications" : "false",
 	"icons" : [
 		{
-			"src": "https://www.atomstudy.com/favicon.ico",
-			"sizes": "16x16"
-		},
-		{
-			"src": "https://www.atomstudy.com/favicon.ico",
-			"sizes": "16x16"
+			"src": "https://amp-bllog.blogspot.com/favicon.ico",
+			"sizes": "32x32 16x16"
 		}],
 	"screenshots" : [],
 	"generated" : "true"
