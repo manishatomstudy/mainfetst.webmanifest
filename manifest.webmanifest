@@ -1,0 +1,31 @@
+<html>
+<body>
+{
+	"dir" : "ltr",
+	"lang" : "en",
+	"name" : "atomstudy",
+	"scope" : "/",
+	"display" : "browser",
+	"start_url" : "https://www.atomstudy.com/",
+	"short_name" : "atomstudy",
+	"theme_color" : "#1c32ac",
+	"description" : "free study material for iit and neet prepration, coding blog",
+	"orientation" : "any",
+	"background_color" : "#1c32ac",
+	"related_applications" : "",
+	"prefer_related_applications" : "false",
+	"icons" : [
+		{
+			"src": "https://www.atomstudy.com/favicon.ico",
+			"sizes": "16x16"
+		},
+		{
+			"src": "https://www.atomstudy.com/favicon.ico",
+			"sizes": "16x16"
+		}],
+	"screenshots" : [],
+	"generated" : "true"
+}
+</body>
+
+</html>
